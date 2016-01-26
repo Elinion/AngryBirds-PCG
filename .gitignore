@@ -1,0 +1,8 @@
+Library/*
+Build/*
+Temp/*
+*.sln
+*.csproj
+*.userprefs
+*.userprefs
+Assets/Experiments/* 

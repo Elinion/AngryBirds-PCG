@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Level>
+  <BirdsAmount>3</BirdsAmount>
+  <GameObjects>
+    <GameObject label="27" x="-5.104445" y="-1.96" />
+    <GameObject label="27" x="-4.034446" y="-1.96" />
+    <GameObject label="21" x="-4.569446" y="-0.4000005" />
+    <GameObject label="12" x="-4.569446" y="0.3099996" />
+    <GameObject label="28" x="-4.569446" y="0.6249996" />
+    <GameObject label="13" x="-4.569446" y="0.9499996" />
+    <GameObject label="31" x="-4.569446" y="1.37" />
+    <GameObject label="7" x="-2.604445" y="-2.7" />
+    <GameObject label="12" x="-2.604445" y="-2.39" />
+    <GameObject label="28" x="-2.604445" y="-2.075" />
+    <GameObject label="13" x="-2.604445" y="-1.75" />
+    <GameObject label="2" x="-2.604445" y="-1.9375" />
+    <GameObject label="7" x="-3.029445" y="-0.7550002" />
+    <GameObject label="7" x="-2.179445" y="-0.7550002" />
+    <GameObject label="28" x="-2.604445" y="-0.3300002" />
+    <GameObject label="13" x="-2.604445" y="-0.005000114" />
+    <GameObject label="31" x="-2.604445" y="0.4149999" />
+    <GameObject label="5" x="1.065555" y="-2.535" />
+    <GameObject label="1" x="1.065555" y="-2.3675" />
+    <GameObject label="20" x="0.2205551" y="-1.415" />
+    <GameObject label="20" x="1.910555" y="-1.415" />
+    <GameObject label="8" x="1.065555" y="-0.7950004" />
+    <GameObject label="12" x="1.065555" y="-0.4850004" />
+    <GameObject label="13" x="1.065555" y="-0.2750004" />
+    <GameObject label="0" x="1.065555" y="-0.4650005" />
+    <GameObject label="31" x="1.065555" y="0.3849995" />
+    <GameObject label="25" x="4.525555" y="-2.485" />
+    <GameObject label="25" x="4.945555" y="-2.485" />
+    <GameObject label="31" x="4.735555" y="-1.75" />
+    <GameObject label="2" x="4.735555" y="-1.9375" />
+    <GameObject label="9" x="4.735555" y="-0.7550004" />
+    <GameObject label="12" x="4.735555" y="-0.4450004" />
+    <GameObject label="28" x="4.735555" y="-0.1300004" />
+    <GameObject label="13" x="4.735555" y="0.1949997" />
+    <GameObject label="2" x="4.735555" y="0.007499635" />
+    <GameObject label="0" x="6.670555" y="-2.37" />
+    <GameObject label="0" x="8.750555" y="-2.37" />
+    <GameObject label="4" x="7.710555" y="-1.45" />
+    <GameObject label="0" x="7.710555" y="-1.29" />
+    <GameObject label="31" x="7.710555" y="-0.4400005" />
+    <GameObject label="27" x="7.710555" y="0.1999995" />
+    <GameObject label="14" x="7.710555" y="1.359999" />
+    <GameObject label="28" x="7.710555" y="1.784999" />
+    <GameObject label="13" x="7.710555" y="2.109999" />
+    <GameObject label="27" x="7.710555" y="2.099999" />
+    <GameObject label="28" x="7.600555" y="3.264999" />
+    <GameObject label="28" x="7.820555" y="3.264999" />
+    <GameObject label="14" x="7.710555" y="3.69" />
+    <GameObject label="9" x="7.710555" y="4.11" />
+    <GameObject label="13" x="7.710555" y="4.43" />
+    <GameObject label="27" x="7.710555" y="4" />
+    <GameObject label="14" x="10.59556" y="-2.7" />
+    <GameObject label="14" x="11.02556" y="-2.7" />
+    <GameObject label="31" x="10.81056" y="-2.18" />
+    <GameObject label="2" x="10.81056" y="-1.9375" />
+    <GameObject label="10" x="10.81056" y="-0.8550001" />
+    <GameObject label="11" x="10.81056" y="-0.6350001" />
+    <GameObject label="25" x="10.81056" y="-0.1000001" />
+    <GameObject label="8" x="10.81056" y="0.5349999" />
+    <GameObject label="29" x="10.81056" y="1.165" />
+    <GameObject label="12" x="10.81056" y="1.685" />
+    <GameObject label="13" x="10.81056" y="1.895" />
+  </GameObjects>
+</Level>

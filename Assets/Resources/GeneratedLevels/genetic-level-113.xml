@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Level>
+  <BirdsAmount>-14</BirdsAmount>
+  <GameObjects>
+    <GameObject label="11" x="1.090555" y="-2.8" />
+    <GameObject label="14" x="1.090555" y="-2.48" />
+    <GameObject label="28" x="1.090555" y="-2.055" />
+    <GameObject label="13" x="1.090555" y="-1.73" />
+    <GameObject label="31" x="1.090555" y="-1.31" />
+    <GameObject label="18" x="2.365555" y="-2.2925" />
+    <GameObject label="18" x="3.215556" y="-2.2925" />
+    <GameObject label="19" x="2.790555" y="-1.265" />
+    <GameObject label="28" x="2.680555" y="-0.6400002" />
+    <GameObject label="28" x="2.900556" y="-0.6400002" />
+    <GameObject label="13" x="2.790555" y="-0.3150002" />
+    <GameObject label="31" x="2.790555" y="0.1049998" />
+    <GameObject label="25" x="3.850555" y="-2.485" />
+    <GameObject label="25" x="4.270555" y="-2.485" />
+    <GameObject label="14" x="4.060555" y="-1.85" />
+    <GameObject label="28" x="4.060555" y="-1.425" />
+    <GameObject label="13" x="4.060555" y="-1.1" />
+    <GameObject label="31" x="4.060555" y="-0.6800002" />
+  </GameObjects>
+</Level>

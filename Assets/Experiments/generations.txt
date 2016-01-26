@@ -1,0 +1,15 @@
+====== RESULTS ======
+Execution time: 25.76334
+Convergence: 5
+Cache size:111
+Fitness calculations: 120
+Fitness recovered: 9
+Best Fitness: 3
+Linearity: 0.6658095
+Density: 0.7490909
+Frequency pig: 0.1142857
+Frequency bird: 0.2
+Fitness Evolution: 18 18 14 8 4 3 
+Cache Size Evolution: 20 38 56 75 93 111 
+Cache Usage Evolution: 0 2 4 5 7 9 
+

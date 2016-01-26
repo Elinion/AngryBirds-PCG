@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Level>
+  <BirdsAmount>-1</BirdsAmount>
+  <GameObjects>
+    <GameObject label="21" x="-1.838334" y="-2.3" />
+    <GameObject label="29" x="-1.838334" y="-1.27" />
+    <GameObject label="31" x="-1.838334" y="-0.5400003" />
+    <GameObject label="27" x="-1.838334" y="-0.7400002" />
+    <GameObject label="16" x="-1.838334" y="1.1675" />
+    <GameObject label="24" x="-1.838334" y="2.55" />
+    <GameObject label="7" x="-1.838334" y="3.185" />
+    <GameObject label="29" x="-1.938334" y="3.815" />
+    <GameObject label="29" x="-1.738334" y="3.815" />
+    <GameObject label="12" x="-1.838334" y="4.335" />
+    <GameObject label="13" x="-1.838334" y="4.545" />
+    <GameObject label="14" x="-0.3083335" y="-2.7" />
+    <GameObject label="14" x="0.1216665" y="-2.7" />
+    <GameObject label="28" x="-0.2033336" y="-2.275" />
+    <GameObject label="28" x="0.01666649" y="-2.275" />
+    <GameObject label="28" x="-0.09333354" y="-1.845" />
+    <GameObject label="13" x="-0.09333354" y="-1.52" />
+    <GameObject label="2" x="-0.09333354" y="-1.9375" />
+    <GameObject label="29" x="-0.09333354" y="-0.545" />
+    <GameObject label="13" x="-0.09333354" y="-0.015" />
+    <GameObject label="27" x="-0.09333354" y="-0.01499999" />
+    <GameObject label="28" x="-0.09333354" y="1.15" />
+    <GameObject label="31" x="-0.09333354" y="1.675" />
+    <GameObject label="27" x="-0.09333354" y="1.885" />
+    <GameObject label="31" x="3.576667" y="-2.6" />
+    <GameObject label="1" x="3.576667" y="-2.3675" />
+    <GameObject label="4" x="7.246667" y="-2.53" />
+    <GameObject label="31" x="7.246667" y="-1.84" />
+    <GameObject label="2" x="7.246667" y="-1.9375" />
+    <GameObject label="9" x="7.246667" y="-0.7549999" />
+    <GameObject label="12" x="7.246667" y="-0.445" />
+    <GameObject label="13" x="7.246667" y="-0.235" />
+    <GameObject label="31" x="7.246667" y="0.185" />
+    <GameObject label="2" x="7.246667" y="0.007500052" />
+  </GameObjects>
+</Level>
